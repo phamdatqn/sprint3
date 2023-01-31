@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS product(
     size_id INT,
     product_id INT,
     quantity INT,
-        product_detail_id int,
+	product_detail_id int,
     is_delete BIT DEFAULT 0,
     FOREIGN KEY (size_id)REFERENCES size (id),
     	foreign key (product_detail_id) references product_detail(id)

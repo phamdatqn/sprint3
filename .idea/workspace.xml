@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88abfe76-c18e-4700-87fa-9fcf573494ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data-base/ERD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-base/product-sprint3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/data-base/product-sprint3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673577129742</updated>
       <workItem from="1673577132422" duration="136000" />
+      <workItem from="1675128388489" duration="107000" />
     </task>
     <servers />
   </component>
